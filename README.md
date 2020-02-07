@@ -3,5 +3,7 @@
 using local workspace, to start zookeeper and kafka run the following commands:
 
 
-/usr/bin/zookeeper-server-start config/zookeeper.properties
-/usr/bin/kafka-server-start config/server.properties
+> /usr/bin/zookeeper-server-start config/zookeeper.properties &
+
+> /usr/bin/kafka-server-start config/server.properties &
+
