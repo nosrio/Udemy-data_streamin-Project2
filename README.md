@@ -18,3 +18,6 @@ Kafka consumer output
 Crime Statistic  
 ![Crime Statistic](https://github.com/nosrio/Udemy-data_streamin-Project2/blob/master/crime-statistic.PNG)
 
+Spark Jobs  
+![Spark Jobs](https://github.com/nosrio/Udemy-data_streamin-Project2/blob/master/Spark-Jobs.PNG)
+
