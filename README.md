@@ -11,3 +11,8 @@ To start the kafka streamer:
 To start spark processing:
 
 > spark-submit --packages org.apache.spark:spark-sql-kafka-0-10_2.11:2.3.4 --master local[*] data_stream.py
+
+
+![Crime Statistic](crime-statistic.png)
+
+![Kafka Topic Info](kafka-topic-info.png)
